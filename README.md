@@ -12,7 +12,7 @@ Considering our paper is under review at the early stage, the algorithm(IMRNet) 
 
 # Anomaly-ShapeNet
 
-<img src="./docs/examples.png" width=900 alt="Dataset" align=center>
+<img src="./examples.png" width=900 alt="Dataset" align=center>
 
 
 ## Summary
