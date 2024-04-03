@@ -7,7 +7,7 @@ This project provides a synthetic dataset for point cloud anomaly detection. We 
 Note that we expanded from the original 40 classes to 50 classes and put the new 10 classes in the ‘new’ folders.Our paper can be found here.[[Paper]](https://arxiv.org/abs/2311.14897)
 
 
-## data description
+## Data description
 
 <img src="./examples.png" width=900 alt="Dataset" align=center>
 
@@ -45,7 +45,7 @@ pcd
 ...
 ```
 ## Benchmark
-Our benchmark is listed in our paper[[Paper]](https://arxiv.org/abs/2311.14897) and supplymentary.
+Our benchmark is listed in our paper[[Paper]](https://arxiv.org/abs/2311.14897) and supplymentary(https://github.com/Chopper-233/Anomaly-ShapeNet/supp.pdf).
 ## Citation
 Please cite the following paper if this dataset helps your project:
 
