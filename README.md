@@ -45,7 +45,7 @@ pcd
 ...
 ```
 ## Benchmark
-Our benchmark is listed in our paper[[Paper]](https://arxiv.org/abs/2311.14897) and supplymentary(https://github.com/Chopper-233/Anomaly-ShapeNet/supp.pdf).
+Our benchmark is listed in our paper[[Paper]](https://arxiv.org/abs/2311.14897) and supplymentary(https://github.com/Chopper-233/Anomaly-ShapeNet/blob/main/supp.pdf).
 ## Citation
 Please cite the following paper if this dataset helps your project:
 
