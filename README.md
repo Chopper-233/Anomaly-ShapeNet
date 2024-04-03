@@ -14,7 +14,7 @@ Note that we expanded from the original 40 classes to 50 classes and put the new
 + overview of Anomaly-ShapeNet
 
 Anomaly-ShapeNet comprises a total of 1600 samples which are distributed across 40(+10) distinct categories. There are six kinds of anomalies, including bulge, concavity, crack, holes, and broken. All the obj or pcd file have been watertighted before to obtain a more smooth surface.
-| Datasets |   Category numbers  | Anomaly types| Train num(1cls) |  Test num(1cls) | point num | anomaly portion | 
+| Datasets |   Category numbers  | Anomaly types| Train num(1cls) |  Test num(1cls) | Point num(1obj) | Anomaly portion | 
 |--------------|:----:|:-----:|:-------:|:-------:|:------:|:-------:|
 | Anomaly-ShapeNet |    50    |     6    |    4    |   15~24   |   8K~30K   |   1%~7%   |
 
