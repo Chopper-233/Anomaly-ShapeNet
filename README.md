@@ -1,6 +1,6 @@
 # Anomaly-ShapeNet: A Synthetic Dataset of Point Cloud Anomaly Detection
 
-Wenqiao Li, Xiaohao Xu, Yao Gu
+Wenqiao Li, Xiaohao Xu, Yao Gu, Bozhong Zheng, Shenghua Gao, Yingna Wu
 
 ## Introduction
 This project provides a synthetic dataset for point cloud anomaly detection. We provide 3D point clouds and meshs for training and testing 3D anomaly detection algorithms.
@@ -16,7 +16,7 @@ Note that we expanded from the original 40 classes to 50 classes and put the new
 Anomaly-ShapeNet comprises a total of 1600 samples which are distributed across 40(+10) distinct categories. There are six kinds of anomalies, including bulge, concavity, crack, holes, and broken. All the obj or pcd file have been watertighted before to obtain a more smooth surface.
 | Datasets | # Formats | # Category numbers  | # Anomaly types| # Train num in 1 class |  # Test num in 1 class |  # point range | # anomaly portion | 
 |---|--------------|----------------|----------|-----------|-----------|-----------|-----------|
-| Anomaly-ShapeNet | pcd&mesh | 50 | 6 | 4 |15~24|8K~30K|1%~7%|
+| Anomaly-ShapeNet | pcd&mesh | 50 | 6 | 4 |  15~24 | 8K~30K | 1%~7% |
 
 
 ## Download
@@ -57,6 +57,7 @@ Anomaly Synthesis and A Self-Supervised Learning Network},
   journal={The IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
+```
 ## Thanks
 
 Our dataset and code is built on [Real3D-AD](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), thanks for their excellent works!
