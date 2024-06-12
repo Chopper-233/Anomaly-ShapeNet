@@ -50,12 +50,13 @@ Our benchmark is listed in our [Paper](https://arxiv.org/abs/2311.14897) and [su
 Please cite the following paper if this dataset helps your project:
 
 ```bibtex
-@article{liwq2024,
-  title={Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D
-Anomaly Synthesis and A Self-Supervised Learning Network},
-  author={Li, Wenqiao and Xu, Xiaohao and Gu, Yao and Zheng, Bozhong and Gao, Shenghua and Wu, Yingna},
-  journal={The IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2024}
+@InProceedings{Li_2024_CVPR,
+    author    = {Li, Wenqiao and Xu, Xiaohao and Gu, Yao and Zheng, Bozhong and Gao, Shenghua and Wu, Yingna},
+    title     = {Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {22207-22216}
 }
 ```
 ## Thanks
