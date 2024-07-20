@@ -2,7 +2,7 @@
 
 Wenqiao Li, Xiaohao Xu, Yao Gu, Bozhong Zheng, Shenghua Gao, Yingna Wu
 ## 🧩News
-Follow-up work [R3D-AD][ECCV24]((https://arxiv.org/html/2407.10862v1)).
+Follow-up work [R3D-AD,ECCV24]((https://arxiv.org/html/2407.10862v1)).
 ## Introduction
 This project provides a synthetic dataset for point cloud anomaly detection. We provide 3D point clouds and meshs for training and testing 3D anomaly detection algorithms.
 Note that we expanded from the original 40 classes to 50 classes and put the new 10 classes in the ‘new’ folders.Our paper can be found here.[[Paper]](https://arxiv.org/abs/2311.14897)
