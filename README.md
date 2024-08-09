@@ -4,8 +4,8 @@ Wenqiao Li, Xiaohao Xu, Yao Gu, Bozhong Zheng, Shenghua Gao, Yingna Wu
 ## 🧩News
 Follow-up work [R3D-AD,ECCV24](https://arxiv.org/html/2407.10862v1).
 ## Introduction
-This project provides a synthetic dataset for point cloud anomaly detection. We provide 3D point clouds and meshs for training and testing 3D anomaly detection algorithms.
-Note that we expanded from the original 40 classes to 50 classes and put the new 10 classes in the ‘new’ folders.Our paper can be found here.[[Paper]](https://arxiv.org/abs/2311.14897)
+This project provides a synthetic dataset for point cloud anomaly detection. We provide 3D point clouds and meshes for training and testing 3D anomaly detection algorithms.
+Note that we expanded from the original 40 classes to 50 classes and put the new 10 classes in the ‘new’ folders. Our paper can be found here.[[Paper]](https://arxiv.org/abs/2311.14897)
 
 
 ## Data description
@@ -46,7 +46,7 @@ pcd
 ...
 ```
 ## Benchmark
-Our benchmark is listed in our [Paper](https://arxiv.org/abs/2311.14897) and [supplymentary](https://github.com/Chopper-233/Anomaly-ShapeNet/blob/main/supp.pdf).
+Our benchmark is listed in our [Paper](https://arxiv.org/abs/2311.14897) and [supplementary](https://github.com/Chopper-233/Anomaly-ShapeNet/blob/main/supp.pdf).
 ## Citation
 Please cite the following paper if this dataset helps your project:
 
@@ -62,7 +62,7 @@ Please cite the following paper if this dataset helps your project:
 ```
 ## Thanks
 
-Our dataset and code is built on [Real3D-AD](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), thanks for their excellent works!
+Our dataset and code are built on [Real3D-AD](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), thanks for their excellent works!
 
 ## License
 The dataset is released under the CC BY 4.0 license.
