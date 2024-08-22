@@ -46,7 +46,7 @@ pcd
 ...
 ```
 ## Benchmark
-Our benchmark is listed in our [Paper](https://arxiv.org/abs/2311.14897) and [supplymentary](https://github.com/Chopper-233/Anomaly-ShapeNet/blob/main/supp.pdf).
+Our benchmark for Anomaly ShapaNet and Real3D-AD are listed here [Benchmark](https://github.com/Chopper-233/Anomaly-ShapeNet/blob/main/Benchmark.pdf).
 ## Citation
 Please cite the following paper if this dataset helps your project:
 
