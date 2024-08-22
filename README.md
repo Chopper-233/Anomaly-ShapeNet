@@ -46,7 +46,7 @@ pcd
 ...
 ```
 ## Benchmark
-Our benchmark for Anomaly ShapaNet and Real3D-AD are listed here [Benchmark](https://github.com/Chopper-233/Anomaly-ShapeNet/blob/main/Benchmark.pdf).
+Our benchmark for Anomaly ShapaNet and Real3D-AD are listed here [Benchmark](https://github.com/Chopper-233/Anomaly-ShapeNet/blob/main/Benchmark.pdf). Some metrics like P-AP for Anomaly-ShapeNet is ignored because they are not suitable for our dataset.
 ## Citation
 Please cite the following paper if this dataset helps your project:
 
