@@ -62,7 +62,7 @@ Please cite the following paper if this dataset helps your project:
 ```
 ## Thanks
 
-Our dataset and code is built on [Real3D-AD](https://github.com/eliahuhorwitz/3D-ADS) and [M3DM](https://github.com/nomewang/M3DM), thanks for their excellent works!
+Our dataset and code is built on [M3DM](https://github.com/nomewang/M3DM), thanks for its excellent works!
 
 ## License
 The dataset is released under the CC BY 4.0 license.
