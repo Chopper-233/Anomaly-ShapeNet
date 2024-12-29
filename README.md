@@ -62,7 +62,7 @@ Please cite the following paper if this dataset helps your project:
 ```
 ## Thanks
 
-Our dataset and code is built on [M3DM](https://github.com/nomewang/M3DM), thanks for its excellent works!
+Our dataset and code is built on [ShapeNet](https://shapenet.org/) and [PointMAE](https://github.com/Pang-Yatian/Point-MAE), thanks for its excellent works!
 
 ## License
 The dataset is released under the CC BY 4.0 license.
