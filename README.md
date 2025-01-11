@@ -22,7 +22,7 @@ Anomaly-ShapeNet comprises a total of 1600 samples which are distributed across 
 
 ## Download
 
-+ To download our Anomaly-ShapeNet dataset (Dataset for training and evaluation, pcd&obj format), click [Anomaly-ShapeNet.zip(baidu disk: case)](https://pan.baidu.com/s/1Nm50WIU_jx5viozwe59HsQ?pwd=case), (Google drive)(https://drive.google.com/file/d/16R8b39Os97XJOenB4bytxlV4vd_5dn0-/view?usp=sharing) or (hugging face)(https://huggingface.co/datasets/Chopper233/Anomaly-ShapeNet)
++ To download our Anomaly-ShapeNet dataset (Dataset for training and evaluation, pcd&obj format), click [Anomaly-ShapeNet.zip(baidu disk: case)](https://pan.baidu.com/s/1Nm50WIU_jx5viozwe59HsQ?pwd=case) or (hugging face)(https://huggingface.co/datasets/Chopper233/Anomaly-ShapeNet)
 
 
 
