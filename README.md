@@ -2,9 +2,9 @@
 
 Wenqiao Li, Xiaohao Xu, Yao Gu, Bozhong Zheng, Shenghua Gao, Yingna Wu
 ## 🧩Our works based on Anomaly-ShapeNet and IMRNet
-[Mulsen-AD-3D](https://github.com/ZZZBBBZZZ/MulSen-AD/): We propose a large scale 3D AD dataset following Anomaly-ShapeNet and Real3D-AD(CVPR2025)!
+[Mulsen-AD-3D](https://github.com/ZZZBBBZZZ/MulSen-AD/): We propose a large scale 3D AD dataset following Anomaly-ShapeNet and Real3D-AD (CVPR2025)!
 
-[PASDF](https://github.com/ZZZBBBZZZ/PASDF): We propose a simple and effective 3D-AD algorithm based on IMR-Net(ICCV2025)!
+[PASDF](https://github.com/ZZZBBBZZZ/PASDF): We propose a simple and effective 3D-AD algorithm based on IMR-Net (ICCV2025)!
 ## Introduction
 This project provides a synthetic dataset for point cloud anomaly detection. We provide 3D point clouds and meshs for training and testing 3D anomaly detection algorithms.
 Note that we expanded from the original 40 classes to 50 classes and put the new 10 classes in the ‘new’ folders.Our paper can be found here.[[Paper]](https://arxiv.org/abs/2311.14897)
