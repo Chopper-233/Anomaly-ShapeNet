@@ -2,7 +2,7 @@
 
 Wenqiao Li, Xiaohao Xu, Yao Gu, Bozhong Zheng, Shenghua Gao, Yingna Wu
 ## 🧩Our works based on Anomaly-ShapeNet and IMRNet
-[Mulsen-AD-3D](https://github.com/ZZZBBBZZZ/MulSen-AD/):We propose a large scale 3D AD dataset following Anomaly-ShapeNet and Real3D-AD(CVPR2025)!
+[Mulsen-AD-3D](https://github.com/ZZZBBBZZZ/MulSen-AD/): We propose a large scale 3D AD dataset following Anomaly-ShapeNet and Real3D-AD(CVPR2025)!
 
 [PASDF](https://github.com/ZZZBBBZZZ/PASDF): We propose a simple and effective 3D-AD algorithm based on IMR-Net(ICCV2025)!
 ## Introduction
